@@ -50,10 +50,10 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1552974004736,
-            "changeTime": 1552974004736,
+            "modifiedTime": 1552974707289,
+            "changeTime": 1552974707289,
             "isWorkspace": false,
-            "contentHash": "832d559f1a94013b0352c6a465f75f2cfc8d1b8b"
+            "contentHash": "34866d9c526460845c452ebdae1a0299f9739718"
         }
     ],
     [
@@ -416,7 +416,7 @@
             "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountSearch\\AccountSearchHelper.js",
             "isDirectory": false,
             "size": 575,
-            "modifiedTime": 1552971237785,
+            "modifiedTime": 1552974502228,
             "changeTime": 1552971237785,
             "contentHash": "b98370d856981bf5ebd68b5b41729b5aa46c5830",
             "isMetadataFile": false,
@@ -465,130 +465,260 @@
     [
         "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1552974004801,
             "changeTime": 1552974004801,
-            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670"
+            "contentHash": "8560224a9375f41dec7cfcf002b9144a4be27670",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.auradoc",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 209,
             "modifiedTime": 1552974004801,
             "changeTime": 1552974004801,
-            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 583,
-            "modifiedTime": 1552974035909,
+            "modifiedTime": 1552974513428,
             "changeTime": 1552974035909,
-            "contentHash": "44d071891870ff1aec019c00d22f991063541740"
+            "contentHash": "44d071891870ff1aec019c00d22f991063541740",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 243,
             "modifiedTime": 1552974004768,
             "changeTime": 1552974004768,
-            "contentHash": "4f2b577ab9601eb150f6621671f3696ad60eccb1"
+            "contentHash": "4f2b577ab9601eb150f6621671f3696ad60eccb1",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.css",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 10,
             "modifiedTime": 1552974004783,
             "changeTime": 1552974004783,
-            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.design",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 40,
             "modifiedTime": 1552974004801,
             "changeTime": 1552974004801,
-            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountList.svg",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 661,
             "modifiedTime": 1552974004785,
             "changeTime": 1552974004785,
-            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListController.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1397,
-            "modifiedTime": 1552974067693,
+            "modifiedTime": 1552974494821,
             "changeTime": 1552974067693,
-            "contentHash": "dfcfc9e349672e9d93db610da040f856db5bf1ad"
+            "contentHash": "dfcfc9e349672e9d93db610da040f856db5bf1ad",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListHelper.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 45,
             "modifiedTime": 1552974004779,
             "changeTime": 1552974004779,
-            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
         {
-            "state": "u",
             "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountList\\AccountListRenderer.js",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 50,
             "modifiedTime": 1552974004785,
             "changeTime": 1552974004785,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1552974707320,
+            "changeTime": 1552974707320,
+            "contentHash": "ca7497b9d16bf71224d944e5c0c08dce87141486"
+        }
+    ],
+    [
+        "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1552974707305,
+            "changeTime": 1552974707305,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 302,
+            "modifiedTime": 1552974913272,
+            "changeTime": 1552974913272,
+            "contentHash": "af0eaa6e32015e94fc0d3eabbd6562db3cd9e9bb"
+        }
+    ],
+    [
+        "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 242,
+            "modifiedTime": 1552974707289,
+            "changeTime": 1552974707289,
+            "contentHash": "fdac90e0dac3caab30457b5a957f4cac9c801490"
+        }
+    ],
+    [
+        "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1552974707305,
+            "changeTime": 1552974707305,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703"
+        }
+    ],
+    [
+        "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1552974707320,
+            "changeTime": 1552974707320,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMap.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1552974707305,
+            "changeTime": 1552974707305,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 865,
+            "modifiedTime": 1552975010396,
+            "changeTime": 1552975010396,
+            "contentHash": "6a4e7371aa2ed61f5390f040a20f8cd6db9b0ee8"
+        }
+    ],
+    [
+        "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1552974707305,
+            "changeTime": 1552974707305,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\SFDX\\geolocation\\force-app\\main\\default\\aura\\AccountMap\\AccountMapRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1552974707305,
+            "changeTime": 1552974707305,
             "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
